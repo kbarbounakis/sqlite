@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/themost-framework/sqlite#readme",
   "dependencies": {
-    "async": "^2.6.4",
+    "async": "^3.2.3",
     "package-lock-only": "^0.0.4",
     "sqlite3": "^5.0.7"
   },
